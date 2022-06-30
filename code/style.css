@@ -1,0 +1,25 @@
+* {
+    /*display:block;*/
+ 
+}
+
+.login-box {
+    align-items:  center;
+    margin: 0 0 10px;
+    border: 1px solid;
+    background-color: aqua;
+
+
+}
+.login-box > .id, .password {
+    padding: 9px 0 7px 8px;
+    font-size: 16px;
+    height: 45%;
+    width:  30%;
+    align-items: center;
+   
+}
+
+
+
+
